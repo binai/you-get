@@ -13,6 +13,7 @@ from .dailymotion import *
 from .dilidili import *
 from .douban import *
 from .douyutv import *
+from .douyu import *
 from .ehow import *
 from .facebook import *
 from .fc2video import *
